@@ -1,0 +1,44 @@
+
+body {
+	font:14px arial, helvetica, sans serif;  
+	text-align: center; 
+}
+nav {
+	text-align: center; 
+	font:14px arial, helvetica, sans serif;
+}
+h1 {
+	color:black;
+	text-align: center;  
+	font:36px arial, helvetica, sans serif;   
+}
+h2, h3 {
+	color:black;    
+	text-align: left;   
+}
+ td {
+     text-align:left; 
+     text-indent: 20px; 
+     font:12px arial, helvetica, sans serif; 
+}
+th, td {
+    padding: 40px;
+}
+p {    
+	color:black;    
+	text-indent: 0;        
+}
+html:active {
+  	font-style:italic;   
+}
+ul {
+	text-align:left;
+}
+p.left {
+	text-align: left
+}
+h2.center {
+	text-align: center;
+}
+p.center {
+	text-align: center}
